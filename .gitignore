@@ -1,0 +1,12 @@
+### terformm init directory
+.terraform
+
+.terraform*
+
+# lock file
+.terraform.lock.hcl
+
+# terraform statefile
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
